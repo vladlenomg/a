@@ -1,0 +1,2 @@
+$(function(){console.log("Js test")});
+//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm1haW4uanMiXSwibmFtZXMiOlsiJCIsImNvbnNvbGUiLCJsb2ciXSwibWFwcGluZ3MiOiJBQUNBQSxFQUFFLFdBQ0VDLFFBQVFDLElBQUsiLCJmaWxlIjoibWFpbi5qcyIsInNvdXJjZXNDb250ZW50IjpbIi8vIFRlc3RcbiQoZnVuY3Rpb24oKSB7XG4gICAgY29uc29sZS5sb2coIFwiSnMgdGVzdFwiICk7XG59KTsiXX0=

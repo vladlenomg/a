@@ -1,0 +1,22 @@
+# Logs
+logs
+*.log
+
+# node
+node_modules
+
+#bower
+bower_components
+
+#webstorm
+.idea
+
+#python
+__pycache__/
+*.py[cod]
+*$py.class
+
+#other
+.tmp
+temp
+temp.txt
